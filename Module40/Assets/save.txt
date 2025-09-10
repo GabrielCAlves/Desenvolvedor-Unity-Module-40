@@ -1,0 +1,9 @@
+{
+    "lastLevel": 1,
+    "coins": 236.0,
+    "health": 9.0,
+    "puCloth": "",
+    "healthBar": 1.0,
+    "playerName": "Gabriel",
+    "qualquer": ""
+}
